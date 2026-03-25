@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ext-discord",
+    "name": "Discord OAuth2 Sync",
+    "description": "Allow your clients to register and login using their Discord accounts securely.",
+    "version": "1.0.2",
+    "author": "SayamCoder",
+    "type": "Authentication",
+    "icon": "🎮",
+    "download_url": "https://raw.githubusercontent.com/sayamcoder/addons/main/discord-oauth2.zip"
+  },
+  {
+    "id": "ext-loader",
+    "name": "Xiyro Loader (Pre-loader)",
+    "description": "Add a beautiful full-screen loading animation before the panel loads for your users.",
+    "version": "1.0.0",
+    "author": "SayamCoder",
+    "type": "UI Enhancement",
+    "icon": "⏳",
+    "download_url": "https://raw.githubusercontent.com/sayamcoder/addons/main/xiyro-loader.zip"
+  }
+]
